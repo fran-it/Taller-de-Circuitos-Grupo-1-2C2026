@@ -1,0 +1,130 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\franc\Desktop\LDO_test.net
+Start Time: Wed Sep  9 11:08:26 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 6.63629e-07
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step 
+Total elapsed time: 1.020 seconds.
+
+Files loaded:
+C:\Users\franc\Desktop\LDO_test.net
+C:\Users\franc\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\franc\AppData\Local\LTspice\lib\sub\LM358.MOD
+C:\Users\franc\AppData\Local\LTspice\lib\sub\TL431.sub
+

@@ -1,0 +1,184 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\franc\Desktop\Checkpoint2-Rev1(peor caso).net
+Start Time: Fri Sep 18 21:24:56 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+Gmin = 5.61917e-07
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 2.49417e-07
+vernier = 0.222222
+vernier = 0.111111
+vernier = 0.0555555
+vernier = 0.0277778
+vernier = 0.0138889
+vernier = 0.00694444
+Gmin = 1.81825e-07
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 74.4792%
+vernier = 0.00390625
+Source Step = 74.4585%
+Source Step = 74.488%
+Source Step = 74.5176%
+Source Step = 74.5472%
+Source Step = 74.5768%
+vernier = 0.00146484
+Source Step = 74.6168%
+Source Step = 74.6612%
+Source Step = 74.7056%
+Source Step = 74.7499%
+Source Step = 74.7943%
+vernier = 0.00219727
+Source Step = 74.852%
+Source Step = 74.9186%
+Source Step = 74.9852%
+Source Step = 75.0518%
+Source Step = 75.1184%
+vernier = 0.0032959
+Source Step = 75.2016%
+Source Step = 75.3015%
+Source Step = 75.4014%
+Source Step = 75.5012%
+Source Step = 75.6011%
+vernier = 0.00494385
+Source Step = 75.721%
+Source Step = 75.8708%
+Source Step = 76.0206%
+Source Step = 76.1704%
+Source Step = 76.3202%
+vernier = 0.00741577
+Source Step = 76.4925%
+Source Step = 76.7172%
+Source Step = 76.9419%
+Source Step = 77.1667%
+Source Step = 77.3914%
+vernier = 0.0111237
+Source Step = 77.6386%
+Source Step = 77.9756%
+Source Step = 78.3127%
+Source Step = 78.6498%
+Source Step = 78.9869%
+vernier = 0.0166855
+Source Step = 79.3408%
+Source Step = 79.8464%
+Source Step = 80.3521%
+Source Step = 80.8577%
+Source Step = 81.3633%
+Source Step = 81.8689%
+vernier = 0.0250282
+Source Step = 82.6274%
+Source Step = 83.3858%
+Source Step = 84.1442%
+Source Step = 84.9027%
+Source Step = 85.6611%
+vernier = 0.0375423
+Source Step = 86.7608%
+Source Step = 87.8985%
+Source Step = 89.0361%
+Source Step = 90.1738%
+Source Step = 90.6573%
+Source Step = 90.7284%
+Source Step = 90.7995%
+Source Step = 90.8706%
+Source Step = 90.9417%
+Source Step = 91.0128%
+Source Step = 91.0839%
+Source Step = 91.155%
+Source Step = 91.2261%
+Source Step = 91.2972%
+Source Step = 91.3683%
+Source Step = 91.4394%
+Source Step = 91.5105%
+Source Step = 91.5816%
+Source Step = 91.6527%
+Source Step = 91.7238%
+Source Step = 91.7949%
+Source Step = 91.866%
+Source Step = 91.9371%
+Source Step = 92.0082%
+Source Step = 92.0793%
+Source Step = 92.1504%
+Source Step = 92.2215%
+Source Step = 92.2926%
+Source Step = 92.3637%
+Source Step = 92.4348%
+Source Step = 92.5059%
+Source Step = 92.577%
+Source Step = 92.6481%
+Source Step = 92.7192%
+Source Step = 92.7903%
+Source Step = 92.8614%
+Source Step = 92.9325%
+Source Step = 93.0036%
+Source Step = 93.0747%
+Source Step = 93.1459%
+Source Step = 93.217%
+Source Step = 93.2881%
+Source Step = 93.3592%
+Source Step = 93.4303%
+Source Step = 93.5014%
+Source Step = 93.5725%
+vernier = 0.00351959
+Source Step = 93.6542%
+Source Step = 93.7609%
+Source Step = 93.8675%
+Source Step = 93.9742%
+Source Step = 94.0809%
+vernier = 0.00527939
+Source Step = 94.1982%
+Source Step = 94.3582%
+Source Step = 94.5181%
+Source Step = 94.6781%
+Source Step = 94.8381%
+vernier = 0.00791909
+Source Step = 95.0061%
+Source Step = 95.2461%
+Source Step = 95.486%
+Source Step = 95.726%
+Source Step = 95.966%
+Source Step = 96.2059%
+vernier = 0.0118786
+Source Step = 96.5659%
+Source Step = 96.9259%
+Source Step = 97.2858%
+Source Step = 97.6458%
+Source Step = 98.0057%
+vernier = 0.0178179
+Source Step = 98.5277%
+Source Step = 99.0676%
+Source Step = 99.6076%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 3.249 seconds.
+
+Files loaded:
+C:\Users\franc\Desktop\Checkpoint2-Rev1(peor caso).net
+C:\Users\franc\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\franc\AppData\Local\LTspice\lib\sub\LM358.MOD
+C:\Users\franc\AppData\Local\LTspice\lib\sub\TL431.sub
+
